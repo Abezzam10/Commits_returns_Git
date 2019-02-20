@@ -5,4 +5,4 @@ python:
 
 # command to run tests
 script:
- - python -m unittest TestTriangle
+ - python -m unittest hw4_testAbez.py
